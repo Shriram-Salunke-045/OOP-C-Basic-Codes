@@ -1,2 +1,2 @@
-# OOP-C-Basic-Codes
-object orianted programing
+# OOP-C++ Basic Codes
+object oriented programming
